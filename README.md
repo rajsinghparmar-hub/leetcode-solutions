@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rajsinghparmar-hub/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajsinghparmar-hub/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajsinghparmar-hub/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Two Pointers
@@ -30,4 +31,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajsinghparmar-hub/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajsinghparmar-hub/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rajsinghparmar-hub/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rajsinghparmar-hub/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
