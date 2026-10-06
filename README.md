@@ -8,12 +8,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajsinghparmar-hub/leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/rajsinghparmar-hub/leetcode-solutions/tree/main/0027-remove-element/) | Easy |
+| [0049-group-anagrams](https://github.com/rajsinghparmar-hub/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajsinghparmar-hub/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajsinghparmar-hub/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajsinghparmar-hub/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/rajsinghparmar-hub/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajsinghparmar-hub/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajsinghparmar-hub/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Two Pointers
@@ -29,12 +31,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/rajsinghparmar-hub/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/rajsinghparmar-hub/leetcode-solutions/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajsinghparmar-hub/leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajsinghparmar-hub/leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/rajsinghparmar-hub/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
